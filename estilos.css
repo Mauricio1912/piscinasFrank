@@ -1,0 +1,110 @@
+.container{
+	max-width: 1100px;
+	text-align:center;
+}
+header{
+	background-image: url('assets/fondo1.png');
+	background-size: cover;
+	height: 550px;
+	position: relative;
+}
+
+.btn{
+	background-color: #5080E5;
+	border-radius: 20px;
+	color: white;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.title-color{
+	color: #5080E5;
+	
+}
+.title{
+	color: #5080E5;
+	font-size: 45px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+
+}
+.logo{
+	width: 120px;
+	margin-bottom: 100px;
+}
+
+#row-cursos{
+	background-color: #5080E5;
+}
+
+.row{
+	margin: 0;
+
+}
+
+#row-cursos img{
+	border-radius: 50%;
+}
+
+#row-nosotros{
+	background-image: url('assets/fondo2.png');
+	background-size: cover;
+	padding-top: 100px !important;
+	 padding-bottom: 100px !important;
+}
+
+#row-nosotros img{
+	border-radius: 50%;
+}
+#row-datos{
+	background-color: #5080E5;
+
+}
+
+.circulo{
+	width: 140px;
+	height: 220;
+	border-radius: 70%; 
+	background-color: #B3FBFF;
+}
+
+#row-servicios{
+	 background-image: url(assets/fondo2.png);
+	 background-size: cover;
+	 padding-top: 100px !important;
+	 padding-bottom: 100px !important;
+}
+#row-servicios img{
+	border-radius: 50%;
+	width: 300px;
+}
+#row-servicios p{
+	font-size: 15px;
+}
+#row-frase{
+background-image: url('assets/fondo3.png');
+background-size: cover;
+background-position: center;
+padding-top: 200px !important;
+padding-bottom: 200px !important;
+
+}
+#row-contacto{
+	background-image: url(assets/fondo2.png);
+	 background-size: cover;
+	 padding-top: 100px !important;
+	 padding-bottom: 100px !important;
+}
+
+.form-control{
+	border-radius: 50px;
+}
+
+footer{
+	background-color: black;
+	padding-top: 100px !important;
+	 padding-bottom: 100px !important;
+
+}
